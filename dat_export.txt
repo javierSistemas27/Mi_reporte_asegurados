@@ -1,0 +1,2 @@
+// archivo de exportación de resultado
+1. Exportar en Archivo Excel o csv el resultado.
